@@ -28,6 +28,7 @@ Tenho paixão por resolver problemas com código e transformar ideias em soluç�
 - 🎓 Formado em Ciência da Computação
 - 🛠️ Experiência sólida com ERP Protheus e ADVPL
 - 📈 Sempre buscando aprender e evoluir como desenvolvedor
+- 📖 Atualmente estudando POUI, Angular, Javascript e Typescript. 
 
 ## 📂 Projetos em destaque
 Aqui você encontrará nos meus repositórios principalmente alguns exemplos de códigos ADVPL que desenvolvi profissionalmente para clientes. Algumas consultas SQL inserida no advpl, e aplicações web simples que desenvolvi para estudos.
